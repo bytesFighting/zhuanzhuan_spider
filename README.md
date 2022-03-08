@@ -9,3 +9,8 @@
 
 
 ![](./demo/demo01.png)
+
+
+联系QQ （用QQ扫二维码，或者添加QQ号）
+
+![](https://github.com/FightingForWhat/idlefish_xianyu_spider-crawler-sender/raw/main/demo/demo11.png)
